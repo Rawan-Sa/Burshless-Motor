@@ -1,7 +1,6 @@
 #Brusless-motor
-# Tinkercad was used to write the code and design the Stepper motor circuit.
-# arduino Uno R3, DC motor, Potentiometer and H-bridge motor drive were mainly used to make the Brushless motor circuit.
-
+# Tinkercad was used to write the code and design the Brushless motor circuit.
+# arduino Uno R3, DC motor, Potentiometer and H-bridge motor drive were mainly used to make the circuit.
 
 int potIn;
 int fwdPin = 5;
