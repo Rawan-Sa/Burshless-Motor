@@ -1,6 +1,7 @@
 #Brusless-motor
 # Tinkercad was used to write the code and design the Brushless motor circuit.
 # arduino Uno R3, DC motor, Potentiometer and H-bridge motor drive were mainly used to make the circuit.
+# i used DC motor instead of brushless motor because Tinkercad does not offer any.
 
 int potIn;
 int fwdPin = 5;
